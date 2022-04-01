@@ -108,3 +108,4 @@ color = linspace(1,10,length(sequence));
 scatter(sequence(:,1), sequence(:,2), [], color, 'o')
 
 
+%a comment
